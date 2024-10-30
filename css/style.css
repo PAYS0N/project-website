@@ -65,7 +65,7 @@ a {
 
   height: 150px;
 
-  border: 2px solid #1f2937;
+  border: 1px solid #1f2937;
   border-radius: 12px;
 
   background-color: #e5e7eb;
@@ -124,6 +124,7 @@ a {
 .link-button {
   flex: 1;
 
+  border: 1px solid black;
   border-radius: 10px;
 }
 
